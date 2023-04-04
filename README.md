@@ -1,2 +1,2 @@
-# Face-Detection-homework2
+# Face-Recognition-homework2
 Source code referenced: https://github.com/mezianysaid/Face-Detection
